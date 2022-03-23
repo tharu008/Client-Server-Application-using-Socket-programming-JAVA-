@@ -1,0 +1,190 @@
+
+Mar 21, 2022 2:21:47 PM com.application.Server main
+INFO: 2022.03.21.14.21.47 | www.google.com | www.google.com/172.217.27.196
+
+Mar 21, 2022 2:22:13 PM com.application.Server main
+INFO: 2022.03.21.14.22.13 | www.facebook.com | www.facebook.com/157.240.16.35
+
+Mar 22, 2022 1:03:49 PM com.application.Server main
+INFO: 2022.03.22.13.03.49 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 1:05:00 PM com.application.Server main
+INFO: 2022.03.22 13:05:00 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 1:05:31 PM com.application.Server main
+INFO: 2022.03.22 13:05:31 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 1:51:11 PM com.application.ClientHandler run
+INFO: 2022.03.22 13:51:11 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 1:51:40 PM com.application.ClientHandler run
+INFO: 2022.03.22 13:51:40 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 1:52:29 PM com.application.ClientHandler run
+INFO: 2022.03.22 13:52:29 | www.facebook.com | www.facebook.com/157.240.16.35
+
+Mar 22, 2022 1:58:23 PM com.application.ClientHandler run
+INFO: 2022.03.22 13:58:22 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 2:03:13 PM com.application.ClientHandler run
+INFO: 2022.03.22 14:03:13 | www.msn.com | www.msn.com/204.79.197.203
+
+Mar 22, 2022 2:03:37 PM com.application.ClientHandler run
+INFO: 2022.03.22 14:03:37 | www.msn.com | www.msn.com/204.79.197.203
+
+Mar 22, 2022 2:03:49 PM com.application.ClientHandler run
+INFO: 2022.03.22 14:03:49 | null | localhost/127.0.0.1
+
+Mar 22, 2022 2:25:23 PM com.application.ClientHandler run
+INFO: 2022.03.22 14:25:23 | www.google.com | www.google.com/142.250.76.196
+
+Mar 22, 2022 2:26:56 PM com.application.ClientHandler run
+INFO: 2022.03.22 14:26:56 | www.google.com | www.google.com/142.250.76.196
+
+Mar 22, 2022 2:27:41 PM com.application.ClientHandler run
+INFO: 2022.03.22 14:27:41 | www.msn.com | www.msn.com/204.79.197.203
+
+Mar 22, 2022 2:29:08 PM com.application.ClientHandler run
+INFO: 2022.03.22 14:29:08 | www.msn.com | www.msn.com/204.79.197.203
+
+Mar 22, 2022 2:43:48 PM com.application.Server main
+INFO: 2022.03.22 14:43:48 | www.msn.com | www.msn.com/204.79.197.203
+
+Mar 22, 2022 2:47:13 PM com.application.Server main
+INFO: 2022.03.22 14:47:13 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 3:18:35 PM com.application.Server main
+INFO: 2022.03.22 15:18:35 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 3:23:23 PM com.application.Server main
+INFO: 2022.03.22 15:23:23 | www.msn.com | www.msn.com/204.79.197.203
+
+Mar 22, 2022 3:33:02 PM com.application.Server main
+INFO: 2022.03.22 15:33:02 | www.kfc.com | www.kfc.com/125.214.166.25
+
+Mar 22, 2022 3:33:36 PM com.application.Server main
+INFO: 2022.03.22 15:33:36 | www.apple.com | www.apple.com/23.209.81.96
+
+Mar 22, 2022 3:34:51 PM com.application.Server main
+INFO: 2022.03.22 15:34:51 | www.yahoo.com | www.yahoo.com/98.137.11.164
+
+Mar 22, 2022 6:49:29 PM com.application.Server main
+INFO: 2022.03.22 18:49:29 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 7:08:11 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:08:11 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 7:08:48 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:08:48 | www.msn.com | www.msn.com/204.79.197.203
+
+Mar 22, 2022 7:11:08 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:11:08 | www.apple.com | www.apple.com/23.209.81.96
+
+Mar 22, 2022 7:15:39 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:15:39 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 7:20:14 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:20:14 | www.msn.com | www.msn.com/204.79.197.203
+
+Mar 22, 2022 7:29:10 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:29:10 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 7:29:38 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:29:38 | www.msn.com | www.msn.com/204.79.197.203
+
+Mar 22, 2022 7:30:35 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:30:35 | www.facebook.com | www.facebook.com/157.240.16.35
+
+Mar 22, 2022 7:31:50 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:31:50 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 7:32:09 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:32:09 | www.apple.com | www.apple.com/23.209.81.96
+
+Mar 22, 2022 7:32:29 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:32:29 | www.kfc.com | www.kfc.com/125.214.166.24
+
+Mar 22, 2022 7:32:50 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:32:50 | www.yahoo.com | www.yahoo.com/87.248.100.216
+
+Mar 22, 2022 7:33:25 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:33:25 | www.bbc.com | www.bbc.com/199.232.80.81
+
+Mar 22, 2022 7:33:56 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:33:56 | www.microsoft.com | www.microsoft.com/23.44.1.243
+
+Mar 22, 2022 7:34:15 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:34:15 | www.atlas.com | www.atlas.com/157.230.161.221
+
+Mar 22, 2022 7:34:35 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:34:35 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 7:36:04 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:36:04 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 7:36:19 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:36:19 | www.yahoo.com | www.yahoo.com/87.248.100.216
+
+Mar 22, 2022 7:36:33 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:36:33 | www.msn.com | www.msn.com/204.79.197.203
+
+Mar 22, 2022 7:42:26 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:42:26 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 7:43:45 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:43:45 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 7:54:21 PM com.application.ClientHandler run
+INFO: 2022.03.22 19:54:21 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 8:00:38 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:00:38 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 8:00:51 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:00:51 | www.msn.com | www.msn.com/204.79.197.203
+
+Mar 22, 2022 8:07:38 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:07:38 | www.kfc.com | www.kfc.com/125.214.166.25
+
+Mar 22, 2022 8:08:06 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:08:06 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 8:30:48 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:30:48 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 8:31:09 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:31:09 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 8:35:06 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:35:06 | www.kfc.com | www.kfc.com/125.214.166.24
+
+Mar 22, 2022 8:35:45 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:35:45 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 8:35:58 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:35:58 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 8:40:33 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:40:33 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 8:40:45 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:40:45 | www.kfc.com | www.kfc.com/125.214.166.24
+
+Mar 22, 2022 8:41:16 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:41:16 | www.msn.com | www.msn.com/204.79.197.203
+
+Mar 22, 2022 8:41:26 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:41:26 | www.google.com | www.google.com/142.250.192.68
+
+Mar 22, 2022 8:41:36 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:41:36 | www.kfc.com | www.kfc.com/125.214.166.25
+
+Mar 22, 2022 8:41:52 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:41:52 | www.msn.com | www.msn.com/204.79.197.203
+
+Mar 22, 2022 8:49:08 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:49:07 | www.bbc.com | www.bbc.com/199.232.80.81
+
+Mar 22, 2022 8:49:24 PM com.application.ClientHandler run
+INFO: 2022.03.22 20:49:24 | www.msn.com | www.msn.com/204.79.197.203
+
